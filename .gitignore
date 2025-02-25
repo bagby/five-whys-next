@@ -42,3 +42,10 @@ next-env.d.ts
 
 # genkit
 /.genkit
+
+# firebase
+apphosting.local.yaml
+/dataconnect-generated/
+
+# local files
+.vscode/settings.json
